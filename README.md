@@ -8,6 +8,7 @@
 | [0035-search-insert-position](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -22,6 +23,7 @@
 | ------- |
 | [0268-missing-number](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +34,7 @@
 | [0035-search-insert-position](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,10 +44,12 @@
 | ------- |
 | [0268-missing-number](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2460-apply-operations-to-an-array](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
