@@ -14,6 +14,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0905-sort-array-by-parity](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2460-apply-operations-to-an-array](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -76,4 +77,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 <!---LeetCode Topics End-->
