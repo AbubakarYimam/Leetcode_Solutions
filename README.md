@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2460-apply-operations-to-an-array](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## String
 |  |
@@ -51,6 +52,7 @@
 | [0268-missing-number](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +60,7 @@
 | [0075-sort-colors](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0905-sort-array-by-parity](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/0905-sort-array-by-parity) |
 | [2460-apply-operations-to-an-array](https://github.com/AbubakarYimam/Leetcode_Solutions/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
